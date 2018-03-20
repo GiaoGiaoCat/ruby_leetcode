@@ -61,3 +61,4 @@ LeetCode的题大致分成两类：
 * [leetcode](https://leetcode.com/)
 * [lintcode](http://www.lintcode.com/) 题目覆盖：人工智能、大数据、算法。只能使用 GO/C/Java/JavaScript/Python 答题
 * [千里码](http://www.qlcoder.com/)
+* [LINTCODE / LEETCODE 参考答案查询](http://www.jiuzhang.com/solution/)
